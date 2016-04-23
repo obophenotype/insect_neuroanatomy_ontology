@@ -6,7 +6,7 @@ The main aim of this project is to provide a simple integration layer to allow c
 
 ## Introduction
 
-In 2014, Ito _et al._ published [A systematic nomenclature for the insect brain](http://www.ncbi.nlm.nih.gov/pubmed/24559671). This potentially provides the basis for a standard ontology of insect brain anatomy, commonly referred to as the BrainName nomenclature.  It has been used as the basis of the IBDB - providing a framework for integrative searches across species.  It has also been used to structure the representation of brain anatomy in the [Drosophila neuroanatomy ontology]() used by [Virtual Fly Brain](www.virtualflybrain.org)(VFB).  VFB and IBDB also include 3D insect brains painted according to this standard.
+In 2014, Ito _et al._ published [A systematic nomenclature for the insect brain](http://www.ncbi.nlm.nih.gov/pubmed/24559671). This potentially provides the basis for a standard ontology of insect brain anatomy, commonly referred to as the BrainName nomenclature.  It has been used as the basis of the IBDB - providing a framework for integrative searches across species.  It has also been used to structure the representation of brain anatomy in the [Drosophila neuroanatomy ontology](https://github.com/FlyBase/drosophila-anatomy-developmental-ontology) used by [Virtual Fly Brain](www.virtualflybrain.org)(VFB).  VFB and IBDB also include 3D insect brains painted according to this standard.
 
 # Plan for integration:
 
