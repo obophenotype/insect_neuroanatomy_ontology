@@ -2,7 +2,7 @@
 
 ## Aims & use cases
 
-The main aim of this project is to provide a simple integration layer to allow cross linking of online insect brain resources such as the (Insect Brain Database)[http://insectbraindb.org/](IBDB) and [Virtual Fly Brain](www.virtualflybrain.org)(VFB). It could also provide a way to cross-search these resources - for example, it should be possible to cross search VFB and the IBDB to find neurons connecting any two sepecified neuropils.
+The main aim of this project is to provide a simple integration layer to allow cross linking of online insect brain resources such as the [Insect Brain Database](http://insectbraindb.org/)(IBDB) and [Virtual Fly Brain](www.virtualflybrain.org)(VFB). It could also provide a way to cross-search these resources - for example, it should be possible to cross search VFB and the IBDB to find neurons connecting any two sepecified neuropils.
 
 ## Introduction
 
