@@ -1,6 +1,6 @@
 # insect_neuroanatomy_ontology
 
-![Megalopta](http://insectbraindb.org/static/images/Megalopta_frontal.png_
+![Megalopta](http://insectbraindb.org/static/images/Megalopta_frontal.png)
 
 ## Aims & use cases
 
