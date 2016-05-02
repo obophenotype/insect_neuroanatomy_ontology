@@ -1,4 +1,4 @@
-# insect_neuroanatomy_ontology
+# insect neuroanatomy ontology
 
 ![Megalopta](http://insectbraindb.org/static/images/Megalopta_frontal.png)
 
@@ -16,4 +16,4 @@ In 2014, Ito _et al._ published [A systematic nomenclature for the insect brain]
 1. Generate unique Insect neuroanatomy ontoogy (INO?) terms with IDs, basic (CARO) classification, part & innervates relationships.
 1. Generate OWL file that maps up from DAO to INO classes.
 
-# Usage: Simple way 
+# Usage: 
