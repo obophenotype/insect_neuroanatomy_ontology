@@ -1,0 +1,181 @@
+ibdb_id	ibdb_name	ibdb_abbv	Uberon_label	part_of	BrainName_abbv	FBbt_id	FBbt_name
+52	Accessory calyx - left	ACA-l	accessory calyx	mushroom body	ACA	FBbt_00045007	mushroom body accessory calyx
+38	Accessory calyx - right	ACA-r	accessory calyx	mushroom body	ACA	FBbt_00045007	mushroom body accessory calyx
+111	Accessory Lamina - left	ALA-l	accessory lamina	lamina	ALA		
+112	Accessory Lamina - right	ALA-r	accessory lamina	lamina	ALA		
+71	Accessory medulla - left	AME-l	accessory medulla	optic lobe	AME	FBbt_00045003	accessory medulla
+12	Accessory medulla - right	AME-r	accessory medulla	optic lobe	AME	FBbt_00045003	accessory medulla
+22	Antennal lobe - left	AL-l	antennal lobe	adult brain	AL	FBbt_00007401	adult antennal lobe
+6	Antennal lobe - right	AL-r	antennal lobe	adult brain	AL	FBbt_00007401	adult antennal lobe
+63	Antennal mechanosensory and motor center - left	AMMC-l	antennal mechanosensory and motor center	periesophageal neuropils	AMMC	FBbt_00100005	antennal mechanosensory and motor center
+37	Antennal mechanosensory and motor center - right	AMMC-r	antennal mechanosensory and motor center	periesophageal neuropils	AMMC	FBbt_00100005	antennal mechanosensory and motor center
+102	anterior lip	ALIP	anterior lip	central complex	ALIP		
+102	anterior lobula - left	aLOB-l	anterior lobula	lobula complex	aLOB		
+95	anterior Lobula - right	aLOB-r	anterior lobula	lobula complex	aLOB		
+34	Anterior optic tubercle - left	AOTU-l	anterior optic tubercle	adult brain	AOTU	FBbt_00007059	anterior optic tubercle
+33	Anterior optic tubercle - right	AOTU-r	anterior optic tubercle	adult brain	AOTU	FBbt_00007059	anterior optic tubercle
+43	Antler - left	ATL-l	antler	inferior neuropils	ATL	FBbt_00045039	antler
+31	Antler - right	ATL-r	antler	inferior neuropils	ATL	FBbt_00045039	antler
+13	AOTU lower unit - left	AOTU-LU-l	anterior optic tubercle lower unit	anterior optic tubercle lower unit complex	AOTU-LU		
+16	AOTU lower unit - right	AOTU-LU-r	anterior optic tubercle  lower unit	anterior optic tubercle lower unit complex	AOTU-LU		
+95	AOTU lower unit complex - left	AOTU-LUC-l	anterior optic tubercle lower unit complex	anterior optic tubercle	AOTU-LUC		
+94	AOTU lower unit complex - right	AOTU-LUC-r	anterior optic tubercle lower unit complex	anterior optic tubercle	AOTU-LUC		
+15	AOTU nodular unit - right	AOTU-NU-r	anterior optic tubercle nodular unit	anterior optic tubercle lower unit complex	AOTU-NU		
+12	AOTU nodular unit -left	AOTU-NU-l	anterior optic tubercle nodular unit	anterior optic tubercle lower unit complex	AOTU-NU		
+79	AOTU strap - left	AOTU-SP-l	anterior optic tubercle strap	anterior optic tubercle lower unit complex	AOTU-SP		
+97	AOTU upper unit - left	AOTU-UU-l	anterior optic tubercle upper unit	anterior optic tubercle	AOTU-UU		
+96	AOTU upper unit - right	AOTU-UU-r	anterior optic tubercle upper unit	anterior optic tubercle	AOTU-UU		
+72	AOTU-Strap - right	AOTU-SP-r	anterior optic tubercle strap	anterior optic tubercle lower unit complex	AOTU-SP		
+66	basal ring lateral calyx - left	BR-LCA-l	basal ring lateral calyx	calyx	BR-LCA		
+64	basal ring lateral calyx - right	BR-LCA-r	basal ring lateral calyx	calyx	BR-LCA		
+67	basal ring medial calyx - left	BR-MCA-l	basal ring medial calyx	calyx	BR-MCA		
+65	basal ring medial calyx - right	BR-MCA-r	basal ring medial calyx	calyx	BR-MCA		
+76	basal zone calyx - left	BZ-CA-l	basal zone calyx	calyx	BZ-CA		
+75	basal zone calyx - right	BZ-CA-r	basal zone calyx	calyx	BZ-CA		
+41	Bulb - left	BU-l	bulb	lateral complex	BU	FBbt_00003682	bulb
+7	Bulb - right	BU-r	bulb	lateral complex	BU	FBbt_00003682	bulb
+51	Calyx - left	CA-l	calyx	mushroom body	CA	FBbt_00003685	mushroom body calyx
+17	Calyx - right	CA-r	calyx	mushroom body	CA	FBbt_00003685	mushroom body calyx
+2	Central body lower division	CBL	central body lower division	central complex	CBL	FBbt_00003678	ellipsoid body
+1	Central body upper division	CBU	central body upper division	central complex	CBU	FBbt_00003679	fan-shaped body
+2	Central complex	CX	central complex	adult brain	CX	FBbt_00003632	adult central complex
+80	Clamp - left	CL-l	clamp	inferior neuropils	CL	FBbt_00040047	clamp
+79	Clamp - right	CL-r	clamp	inferior neuropils	CL	FBbt_00040047	clamp
+68	collar lateral calyx - left	COL-LCA-l	collar lateral calyx	calyx	COL-LCA		
+62	collar lateral calyx - right	COL-LCA-r	collar lateral calyx	calyx	COL-LCA		
+69	collar medial calyx - left	COL-MCA-l	collar medial calyx	calyx	COL-MCA		
+63	collar medial calyx - right	COL-MCA-r	collar medial calyx	calyx	COL-MCA		
+46	Crepine - left	CRE-l	crepine	inferior neuropils	CRE	FBbt_00045037	crepine
+27	Crepine - right	CRE-r	crepine	inferior neuropils	CRE	FBbt_00045037	crepine
+108	Cumulus - right	CU-r	cumulus	macroglomerular complex	CU		
+80	dorsal bulb - left	DBU-l	dorsal bulb	bulb	DBU		
+82	dorsal bulb - right	DBU-r	dorsal bulb	bulb	DBU		
+105	dorsal lamina - left	DLA-l	dorsal lamina	lamina	DLA		
+94	dorsal lamina - right	DLA-r	dorsal lamina	lamina	DLA		
+26	dorsal lobelet - left	DLOBL-l	dorsal lobelet	y-lobes	DLOBL		
+28	dorsal lobelet - right	DLOBL-r	dorsal lobelet	y-lobes	DLOBL		
+99	dorsal Lobula - left	dLO-l	dorsal lobula	lobula complex	dLO		
+96	dorsal Lobula - right	dLO-r	dorsal lobula	lobula complex	dLO		
+104	dorsal rim medulla - left	DRME-l	dorsal rim medulla	medulla	DRME		
+103	dorsal rim medulla - right	DRME-r	dorsal rim medulla	medulla	DRME		
+77	dorsal shell of SMP - left	SMP-DS-l	dorsal shell of smp	superior medial protocerebrum	SMP-DS		
+74	dorsal shell of SMP - right	SMP-DS-r	dorsal shell of smp	superior medial protocerebrum	SMP-DS		
+42	Gall - left	GA-l	gall	lateral complex	GA	FBbt_00040060	gall
+8	Gall - right	GA-r	gall	lateral complex	GA	FBbt_00040060	gall
+10	Gnathal ganglion	GNG	gnathal ganglion	adult brain	GNG	FBbt_00014013	adult gnathal ganglion
+103	Heel - left	HE-l	heel	mushroom body	HE		
+107	Heel - right	HE-r	heel	mushroom body	HE		
+78	Inferior bridge - left	IB-l	inferior bridge	inferior neuropils	IB	FBbt_00040050	inferior bridge
+30	Inferior Bridge - right	IB-r	inferior bridge	inferior neuropils	IB	FBbt_00040050	inferior bridge
+19	inferior clamp - left	ICL-l	inferior clamp	clamp	ICL	FBbt_00040049	inferior clamp
+21	inferior clamp - right	ICL-r	inferior clamp	clamp	ICL	FBbt_00040049	inferior clamp
+8	Inferior neuropils - right	INP-r	inferior neuropils	adult brain	INP	FBbt_00040037	inferior neuropils
+19	Inferior neuropils-  left	INP-l	inferior neuropils	adult brain	INP	FBbt_00040037	inferior neuropils
+100	inner Lobula - left	iLO-l	inner lobula	lobula complex	iLO		
+97	inner Lobula - right	iLO-r	inner lobula	lobula complex	iLO		
+39	inner zone lateral calyx - left	IZ-LCA-l	inner zone lateral calyx	calyx	IZ-LCA		
+8	inner zone lateral calyx - right	IZ-LCA-r	inner zone lateral calyx	calyx	IZ-LCA		
+38	inner zone medial calyx - left	IZ-MCA-l	inner zone medial calyx	calyx	IZ-MCA		
+9	inner zone medial calyx - right	IZ-MCA-r	inner zone medial calyx	calyx	IZ-MCA		
+70	Lamina - left	LA-l	lamina	optic lobe	LA	FBbt_00003708	lamina
+3	Lamina - right	LA-r	lamina	optic lobe	LA	FBbt_00003708	lamina
+40	Lateral accessory lobe - left	LAL-l	lateral accessory lobe	lateral complex	LAL	FBbt_00003681	lateral accessory lobe
+6	Lateral accessory lobe - right	LAL-r	lateral accessory lobe	lateral complex	LAL	FBbt_00003681	lateral accessory lobe
+58	lateral bulb - right	LBU-r	lateral bulb	bulb	LBU		
+59	lateral bulb -left	LBU-l	lateral bulb	bulb	LBU		
+14	Lateral complex - left	LX-l	lateral complex	adult brain	LX	FBbt_00040001	lateral complex
+4	Lateral complex - right	LX-r	lateral complex	adult brain	LX	FBbt_00040001	lateral complex
+23	Lateral horn - left	LH-l	lateral horn	adult brain	LH	FBbt_00007053	lateral horn
+16	Lateral horn - right	LH-r	lateral horn	adult brain	LH	FBbt_00007053	lateral horn
+70	lip lateral calyx - left	LIP-LCA-l	lip lateral calyx	calyx	LIP-LCA		
+60	lip lateral calyx - right	LIP-LCA-r	lip lateral calyx	calyx	LIP-LCA		
+71	lip medial calyx - left	LIP-MCA-l	lip medial calyx	calyx	LIP-MCA		
+61	lip medial calyx - right	LIP-MCA-r	lip medial calyx	calyx	LIP-MCA		
+22	lobula - left	LO-l	lobula	lobula complex	LO	FBbt_00003852	lobula
+24	lobula - right	LO-r	lobula	lobula complex	LO	FBbt_00003852	lobula
+68	Lobula complex - left	LOX-l	lobula complex	optic lobe	LOX	FBbt_00045004	lobula complex
+10	Lobula complex - right	LOX-r	lobula complex	optic lobe	LOX	FBbt_00045004	lobula complex
+23	lobula plate - left	LOP-l	lobula plate	lobula complex	LOP	FBbt_00003885	lobula plate
+25	lobula plate - right	LOP-r	lobula plate	lobula complex	LOP	FBbt_00003885	lobula plate
+31	lower lateral accessory lobe - left	LLAL-l	lower lateral accessory lobe	lateral accessory lobe	LLAL	FBbt_00040061	lower lateral accessory lobe
+2	lower lateral accessory lobe - right	LLAL-r	lower lateral accessory lobe	lateral accessory lobe	LLAL	FBbt_00040061	lower lateral accessory lobe
+93	Macroglomerular complex - left	MGC-l	macroglomerular complex	antennal lobe	MGC		
+89	Macroglomerular complex - right	MGC-r	macroglomerular complex	antennal lobe	MGC		
+57	medial bulb - left	MBU-l	medial bulb	bulb	MBU		
+56	medial bulb - right	MBU-r	medial bulb	bulb	MBU		
+105	Medial Gamma Lobe - left	MGL-l	medial gamma lobe	mushroom body	MGL		
+108	Medial Gamma Lobe - right	MGL-r	medial gamma lobe	mushroom body	MGL		
+54	Medial lobe - left	ML-l	medial lobe	mushroom body	ML	FBbt_00005408	mushroom body medial lobe
+20	Medial lobe - right	ML-r	medial lobe	mushroom body	ML	FBbt_00005408	mushroom body medial lobe
+92	Medial part of lateral horn	MLH	medial part of lateral horn	lateral horn	MLH		
+67	Medulla - left	ME-l	medulla	optic lobe	ME	FBbt_00003748	medulla
+9	Medulla - right	ME-r	medulla	optic lobe	ME	FBbt_00003748	medulla
+26	Mushroom body - left	MB-l	mushroom body	adult brain	MB	FBbt_00003684	adult mushroom body
+3	Mushroom body - right	MB-r	mushroom body	adult brain	MB	FBbt_00003684	adult mushroom body
+39	Nodulus - left	NO-l	nodulus	central complex	NO	FBbt_00003680	nodulus
+4	Nodulus - right	NO-r	nodulus	central complex	NO	FBbt_00003680	nodulus
+38	Ocellar Neuropil - left	ONP-l	ocellar neuropil	adult brain	ONP		
+39	Ocellar Neuropil - right	ONP-r	ocellar neuropil	adult brain	ONP		
+40	Ocellar Neuropil medial	OCN-m	ocellar neuropil medial	adult brain	OCN-m		
+84	optic glomerular complex - left	OGX-l	optic glomerular complex	ventrolateral neuropils	OGX		
+83	optic glomerular complex - right	OGX-r	optic glomerular complex	ventrolateral neuropils	OGX		
+25	Optic lobe - left	OL-l	optic lobe	adult brain	OL	FBbt_00003701	optic lobe
+1	Optic lobe - right	OL-r	optic lobe	adult brain	OL	FBbt_00003701	optic lobe
+101	outer lobula - left	oLO-l	outer lobula	lobula complex	oLO		
+98	outer Lobula - right	oLO-r	outer lobula	lobula complex	oLO		
+37	outer zone lateral calyx - left	OZ-LCA-l	outer zone lateral calyx	calyx	OZ-LCA		
+10	outer zone lateral calyx - right	OZ-LCA-r	outer zone lateral calyx	calyx	OZ-LCA		
+36	outer zone medial calyx - left	OZ-MCA-l	outer zone medial calyx	calyx	OZ-MCA		
+11	outer zone medial calyx - right	OZ-MCA-r	outer zone medial calyx	calyx	OZ-MCA		
+114	PB-left	PB-l	pb	protocerebral bridge	PB	FBbt_00003668	protocerebral bridge
+113	PB-right	PB-r	pb	protocerebral bridge	PB	FBbt_00003668	protocerebral bridge
+50	Pedunculus - left	PED-l	pedunculus	mushroom body	PED	FBbt_00003687	mushroom body pedunculus
+18	Pedunculus - right	PED-r	pedunculus	mushroom body	PED	FBbt_00003687	mushroom body pedunculus
+17	Periesophageal neuropils - left	PENP-l	periesophageal neuropils	adult brain	PENP	FBbt_00045047	periesophageal neuropils
+12	Periesophageal neuropils - right	PENP-r	periesophageal neuropils	adult brain	PENP	FBbt_00045047	periesophageal neuropils
+61	Posterior lateral protocerebrum - left	PLP-l	posterior lateral protocerebrum	ventrolateral neuropils	PLP	FBbt_00040044	posterior lateral protocerebrum
+29	Posterior lateral protocerebrum - right	PLP-r	posterior lateral protocerebrum	ventrolateral neuropils	PLP	FBbt_00040044	posterior lateral protocerebrum
+73	Posterior optic tubercle - left	POTU-l	posterior optic tubercle	central complex	POTU		
+72	Posterior optic tubercle - right	POTU-r	posterior optic tubercle	central complex	POTU		
+56	Posterior slope - left	PS-l	posterior slope	ventromedial neuropils	PS	FBbt_00040072	posterior slope
+35	Posterior slope - right	PS-r	posterior slope	ventromedial neuropils	PS	FBbt_00040072	posterior slope
+5	Protocerebral bridge	PB	protocerebral bridge	central complex	PB	FBbt_00003668	protocerebral bridge
+18	superior clamp - left	SCL-l	superior clamp	clamp	SCL	FBbt_00040048	superior clamp
+20	superior clamp - right	SCL-r	superior clamp	clamp	SCL	FBbt_00040048	superior clamp
+48	Superior intermediate protocerebrum - left	SIP-l	superior intermediate protocerebrum	superior neuropils	SIP	FBbt_00045032	superior intermediate protocerebrum
+23	Superior intermediate protocerebrum - right	SIP-r	superior intermediate protocerebrum	superior neuropils	SIP	FBbt_00045032	superior intermediate protocerebrum
+49	Superior lateral protocerebrum - left	SLP-l	superior lateral protocerebrum	superior neuropils	SLP	FBbt_00007054	superior lateral protocerebrum
+22	Superior lateral protocerebrum - right	SLP-r	superior lateral protocerebrum	superior neuropils	SLP	FBbt_00007054	superior lateral protocerebrum
+47	Superior medial protocerebrum - left	SMP-l	superior medial protocerebrum	superior neuropils	SMP	FBbt_00007055	superior medial protocerebrum
+21	Superior medial protocerebrum - right	SMP-r	superior medial protocerebrum	superior neuropils	SMP	FBbt_00007055	superior medial protocerebrum
+20	Superior neuropils - left	SNP-l	superior neuropils	adult brain	SNP	FBbt_00045030	superior neuropils
+7	Superior neuropils - right	SNP-r	superior neuropils	adult brain	SNP	FBbt_00045030	superior neuropils
+30	upper lateral accessory lobe - left	ULAL-l	upper lateral accessory lobe	lateral accessory lobe	ULAL	FBbt_00040059	upper lateral accessory lobe
+3	upper lateral accessory lobe - right	ULAL-r	upper lateral accessory lobe	lateral accessory lobe	ULAL	FBbt_00040059	upper lateral accessory lobe
+81	ventral bulb - left	VBU-l	ventral bulb	bulb	VBU		
+83	ventral bulb - right	VBU-r	ventral bulb	bulb	VBU		
+75	Ventral complex - left	VX-l	ventral complex	ventromedial neuropils	VX	FBbt_00040071	ventral complex
+74	Ventral complex - right	VX-r	ventral complex	ventromedial neuropils	VX	FBbt_00040071	ventral complex
+28	ventral cord	VC	ventral cord	thoracico-abdominal ganglion		FBbt_00004052	thoracico-abdominal ganglion
+107	ventral lamina - left	VLA-l	ventral lamina	lamina	VLA		
+106	ventral lamina - right	VLA-r	ventral lamina	lamina	VLA		
+27	ventral lobelet - left	VLOBL-l	ventral lobelet	y-lobes	VLOBL		
+29	ventral lobelet - right	VLOBL-r	ventral lobelet	y-lobes	VLOBL		
+32	ventral nerve cord - left	VNC-l	ventral nerve cord	adult brain	VNC		
+31	ventral nerve cord - right	VNC-r	ventral nerve cord	adult brain	VNC		
+78	ventral shell of SMP - left	SMP-VS-l	ventral shell of smp	superior medial protocerebrum	SMP-VS		
+73	ventral shell of SMP - right	SMP-VS-r	ventral shell of smp	superior medial protocerebrum	SMP-VS		
+24	Ventrolateral neuropils - left	VLNP-l	ventrolateral neuropils	adult brain	VLNP	FBbt_00045021	ventrolateral neuropils
+9	Ventrolateral neuropils - right	VLNP-r	ventrolateral neuropils	adult brain	VLNP	FBbt_00045021	ventrolateral neuropils
+60	Ventrolateral protocerebrum - left	VLP-l	ventrolateral protocerebrum	ventrolateral neuropils	VLP	FBbt_00007058	ventrolateral protocerebrum
+28	Ventrolateral protocerebrum - right	VLP-r	ventrolateral protocerebrum	ventrolateral neuropils	VLP	FBbt_00007058	ventrolateral protocerebrum
+21	Ventromedial neuropils - left	VMNP-l	ventromedial neuropils	adult brain	VMNP	FBbt_00040002	ventromedial neuropils
+11	Ventromedial neuropils - right	VMNP-r	ventromedial neuropils	adult brain	VMNP	FBbt_00040002	ventromedial neuropils
+104	Vertical Gamma Lobe - left	VGL-l	vertical gamma lobe	mushroom body	VGL		
+106	Vertical Gamma Lobe - right	VGL-r	vertical gamma lobe	mushroom body	VGL		
+55	Vertical lobe - left	VL-l	vertical lobe	mushroom body	VL		
+19	Vertical lobe - right	VL-r	vertical lobe	mushroom body	VL		
+81	Y-lobes - left	YL-l	y-lobes	mushroom body	YL		
+82	Y-lobes - right	YL-r	y-lobes	mushroom body	YL		
+53	Y-tract - left	YT-l	y-tract	mushroom body	YT		
+32	Y-tract - right	YT-r	y-tract	mushroom body	YT		
