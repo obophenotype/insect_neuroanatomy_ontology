@@ -5,14 +5,6 @@ import warnings
 import requests
 import re
 
-# Each term in first level of list is a block.  Make this part of adult brain (UBERON_6003624)
-# heirarchy underneath = partonomy - single inheritance.
-# Need to merge left and right (do this on short hand)
-# So can make table
-# ibdb_id | ibd_name | ibdb_abbv | uberon term name (TBA) | part_of | BrainName ABBV| FBbt term
-print "\t".join(['ibdb_id', 'ibdb_name', 'ibdb_abbv', 
-                'Uberon_label', 'part_of', 'BrainName_abbv',
-                'FBbt_id', 'FBbt_name'])
 
 
 def name_gen(n):
@@ -75,7 +67,17 @@ class row_gen():
 rg = row_gen('/repos/drosophila-anatomy-developmental-ontology/fbbt/releases/fbbt-simple.owl')
  
 r = requests.get('https://insectbraindb.org/api/v1/brain_region/')
-ibd_neuropils = r.json()            
+ibd_neuropils = r.json()         
+
+
+# Each term in first level of list is a block.  Make this part of adult brain (UBERON_6003624)
+# heirarchy underneath = partonomy - single inheritance.
+# Need to merge left and right (do this on short hand)
+# So can make table
+# ibdb_id | ibd_name | ibdb_abbv | uberon term name (TBA) | part_of | BrainName ABBV| FBbt term
+print "\t".join(['ibdb_id', 'ibdb_name', 'ibdb_abbv', 
+                'Uberon_label', 'part_of', 'BrainName_abbv',
+                'FBbt_id', 'FBbt_name'])
 
 for b in ibd_neuropils:
     nbu = rg.print_row(j = b, superpart_name='adult brain')
