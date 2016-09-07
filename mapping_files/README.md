@@ -9,12 +9,15 @@ We aim to map these to general classes to live in Uberon.  All classes should ha
 
 file: IBDB_neuropils_2_Uberon_FBbt.tsv
 
+Generation: This file was mostly generated progamatically using JSON from https://insectbraindb.org/api/v1/brain_region/
+& [fbbt-simple.owl](http://purl.obolibrary.org/obo/fbbt/fbbt-simple.owl).
+
 * **Columns**: 
   * *ibdb_id*:  ID number in IBDB JSON
   * *ibdb_name*: Name in IBDB JSON
   * *ibdb_abbv*: Abbreviation in IBDB JSON
   * *Uberon_label*:  label for proposed Uberon term. 
-    * Derived from idbdb_name by stripping terminal ' - (l/r)' where present and converting to lower-case.
+    * Derived from idbdb_name by stripping terminal ' - (l/r)' where present and converting to lower-case.  In a few cases (e.g. AOTU), acronyms were manually converted to full names. 
   * *part_of*: part_of parent for proposed Uberon term
     * Derived from the JSON hierarchy.  Uses the same names as in Uberon label.
   * *BrainName_abbv*: Abbreviation for proposed Uberon term
@@ -24,6 +27,9 @@ file: IBDB_neuropils_2_Uberon_FBbt.tsv
   * *FBbt_name*: Name of 'equivalent' class in FBbt
     * Pulled from FBbt
   
-Generation:  This file was mostly generated progamatically using JSON from https://insectbraindb.org/api/v1/brain_region/
-& [fbbt-simple.owl](http://purl.obolibrary.org/obo/fbbt/fbbt-simple.owl).
+
+
+## Neuron mappings:
+
+TBD: IBDB has many single neurons, e.g. https://insectbraindb.org/neurons/43/.  These could be automatically transformed into ontology terms - allowing cross species queries. These neurons already have unique identifiers (NIN) which could be used as short_form identifiers. The also have arborization & soma regions, which could easily be axiomatised.
 
