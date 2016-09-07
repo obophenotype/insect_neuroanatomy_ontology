@@ -2,7 +2,7 @@
 
 ## Synaptic neuropil mappings
 
-Background: Both FBbt and IBDB have neuropils with names, abbreviations and partonomy based on: Ito, K., Shinomiya, K., Ito, M., Armstrong, J. D., Boyan, G., Hartenstein, V., … Vosshall, L. B. (2014). A systematic nomenclature for the insect brain. Neuron, 81(4), 755–65. doi:10.1016/j.neuron.2013.12.017
+Background: Both FBbt and IBDB have neuropils with names, abbreviations and partonomy based on: Ito, K., Shinomiya, K., Ito, M., Armstrong, J. D., Boyan, G., Hartenstein, V., … Vosshall, L. B. (2014). A systematic nomenclature for the insect brain. Neuron, 81(4), 755–65. doi:10.1016/j.neuron.2013.12.017, PMID:24559671
 
 We aim to map these to general classes to live in Uberon.  All classes should have PMID:24559671 as a reference. 
 
