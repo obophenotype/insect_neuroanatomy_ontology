@@ -2,10 +2,7 @@ from owltools.graph import OWLGraphWrapper
 from owl2pdm_tools import ont_manager
 import warnings
 #from tsv2pdm import rcd
-
 import requests
-r = requests.get('https://insectbraindb.org/api/v1/brain_region/')
-ibd_neuropils = r.json()
 import re
 
 # Each term in first level of list is a block.  Make this part of adult brain (UBERON_6003624)
